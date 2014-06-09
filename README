@@ -1,3 +1,6 @@
+9 June 2014: This repository is way out of date, don't use this code. Use the
+actual freetype-go project.
+
 This is a minor fork of the actual freetype-go project, the website of which is
 given below. Unless you explicitly want to make use of my minor changes, then
 you should use the version hosted there.
