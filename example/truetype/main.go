@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/scpayson/freetype-go/freetype/truetype"
+	"github.com/starchou/freetype-go/freetype/truetype"
 )
 
 var fontfile = flag.String("fontfile", "../../luxi-fonts/luxisr.ttf", "filename of the ttf font")

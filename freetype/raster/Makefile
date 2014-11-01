@@ -5,7 +5,7 @@
 
 include $(GOROOT)/src/Make.inc
 
-TARG=code.google.com/p/freetype-go/freetype/raster
+TARG=github.com/starchou/freetype-go/freetype/raster
 GOFILES=\
 	geom.go\
 	paint.go\
